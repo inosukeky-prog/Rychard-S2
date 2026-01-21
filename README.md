@@ -1,4 +1,3 @@
-[index.html](https://github.com/user-attachments/files/24774075/index.html)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -372,5 +371,3 @@
   </script>
 </body>
 </html>
-[New_West_-_Those_Eyes_CeeNaija.com_.mp3](https://github.com/user-attachments/files/24774080/New_West_-_Those_Eyes_CeeNaija.com_.mp3)
-![baixados (18)](https://github.com/user-attachments/assets/a8482b48-8361-49b2-a2ed-6ab204f26476)
